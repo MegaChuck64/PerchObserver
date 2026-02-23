@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerchObserver.CLI", "PerchObserver.CLI\PerchObserver.CLI.csproj", "{7A1F1306-96FF-43B9-8407-715E74E2360B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerchObserver.Inference", "PerchObserver.Inference\PerchObserver.Inference.csproj", "{A61EB355-9D3A-43E3-9BDA-50284A83942D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A1F1306-96FF-43B9-8407-715E74E2360B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1F1306-96FF-43B9-8407-715E74E2360B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1F1306-96FF-43B9-8407-715E74E2360B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1F1306-96FF-43B9-8407-715E74E2360B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A61EB355-9D3A-43E3-9BDA-50284A83942D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61EB355-9D3A-43E3-9BDA-50284A83942D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61EB355-9D3A-43E3-9BDA-50284A83942D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61EB355-9D3A-43E3-9BDA-50284A83942D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62F6CBCA-85E6-41FD-93DD-F1BB242FD9DD}
+	EndGlobalSection
+EndGlobal
